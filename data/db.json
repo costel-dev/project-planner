@@ -1,12 +1,6 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Create new homepage banner",
-      "details": "lorem ipsum",
-      "complete": true
-    },
-    {
       "id": 2,
       "title": "Create new homepage banner",
       "details": "lorem ipsum",
@@ -17,6 +11,18 @@
       "title": "Make marketing email",
       "details": "lorem ipsum",
       "complete": false
+    },
+    {
+      "title": "Build a new project",
+      "details": "Build a project to practice your Vue skills",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Design new Website",
+      "details": "sketch a new design for an e-commerce website",
+      "complete": false,
+      "id": 6
     }
   ]
 }
